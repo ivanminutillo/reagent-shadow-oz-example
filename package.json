@@ -24,7 +24,9 @@
     "react-dom": "^16.5.2",
     "vega": "^5.3.5",
     "vega-embed": "^4.0.0",
-    "vega-lite": "^3.2.1"
+    "vega-lite": "^3.2.1",
+    "vega-loader": "4.3.2",
+    "vega-canvas": "1.2.4"
   },
   "devDependencies": {
     "shadow-cljs": "^2.6.10"
